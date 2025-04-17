@@ -1,48 +1,49 @@
-<h1 align="center">Привет, я Farid 👋</h1>
+<h1 align="center">Hi, I'm Farid 👋</h1>
 
 <p align="center">
-  💻 Верстальщик | 🔧 Frontend-разработчик | 🎯 Постоянно развиваюсь
+  💻 Frontend Developer | 🔧 Markup Specialist | 🎯 Always Learning
 </p>
 
 ---
 
-### 🚀 Обо мне
+### 🚀 About Me
 
-- 🛠️ Занимаюсь версткой: Pixel Perfect, адаптивность, кроссбраузерность  
-- 💡 Люблю чистый, понятный код и хорошую структуру проектов  
-- ⚡ Увлекаюсь анимациями, UI-дизайном и повышением производительности  
-- 🧠 Сейчас изучаю: **Vue 3**, **TypeScript**, **Node.js**
+- 🛠️ I specialize in markup: Pixel Perfect, responsive design, cross-browser compatibility  
+- 💡 I love clean, well-structured code  
+- ⚡ Passionate about animations, UI design, and performance optimization  
+- 🧠 Currently learning: **Vue 3**, **TypeScript**, **Node.js**
 
 ---
 
-### 🛠️ Технологии
+### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ---
 
-### 📌 Последние проекты
+### 📌 Recent Projects
 
-| Название | Описание | Стек |
-|---------|----------|------|
-| 🎄 Christmas Shop | Магазин подарков с адаптивной версткой и интерактивом | HTML, Sass, JS |
-| 🎮 Memory Game | Игра с таймером, локальным хранилищем и анимацией | JS, CSS |
-| 📚 Book Finder | Поиск книг с API и отображением в таблицу | JS, DOM API |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🎄 Christmas Shop | Responsive gift shop layout with interactivity | HTML, Sass, JS |
+| 🎮 Memory Game | Game with timer, localStorage and animations | JS, CSS |
+| 📚 Book Finder | Book search via API with dynamic table rendering | JS, DOM API |
 
 ---
 
-### 📫 Как связаться?
+### 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/твоя-ссылка)
-- [Telegram](https://t.me/твой_ник)
+- [LinkedIn](https://linkedin.com/in/your-link)
+- [Telegram](https://t.me/your_username)
 - 📧 farid@example.com
 
 ---
 
-⭐ Не забудь заглянуть в мои репозитории!
+⭐ Check out my repositories for more!

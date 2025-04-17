@@ -40,9 +40,9 @@
 
 ### 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Telegram](https://t.me/your_username)
-- 📧 farid@example.com
+- [LinkedIn](https://www.linkedin.com/in/kurbanou-farid/)
+- [Telegram](https://t.me/Frontend_Freak)
+- 📧 kurbanou.faridun@gmail.com
 
 ---
 

@@ -40,7 +40,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | RSScool stage-0 | JavaScript / Front-end Course | Git, HTML, CSS, Javascript basics |
-| 🎮 Memory Game | Game with timer, localStorage and animations | JS, CSS |
+| RSScool stage-1 | JavaScript / Front-end Course | Git, HTML, CSS, Javascript basics |
 | 📚 Book Finder | Book search via API with dynamic table rendering | JS, DOM API |
 
 ---

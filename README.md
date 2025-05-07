@@ -39,7 +39,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎄 Christmas Shop | Responsive gift shop layout with interactivity | HTML, Sass, JS |
+| RSScool stage-0 | JavaScript / Front-end Course | Git, HTML, CSS, Javascript basics |
 | 🎮 Memory Game | Game with timer, localStorage and animations | JS, CSS |
 | 📚 Book Finder | Book search via API with dynamic table rendering | JS, DOM API |
 
